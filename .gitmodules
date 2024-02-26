@@ -1,0 +1,3 @@
+[submodule "tables_PPPC4DMID_dictionary/CosmiXs"]
+	path = tables_PPPC4DMID_dictionary/CosmiXs
+	url = git@github.com:ajueid/CosmiXs.git
