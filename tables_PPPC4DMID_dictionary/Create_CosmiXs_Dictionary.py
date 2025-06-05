@@ -39,14 +39,8 @@ channels = [
 ]
 light_quarks = ["u", "d", "s"]
 map_channels = {
-    "eL": "eL",
-    "eR": "eR",
     "e": "ee",
-    "muL": "muL",
-    "muR": "muR",
     "mu": "mumu",
-    "tauL": "tauL",
-    "tauR": "tauR",
     "tau": "tautau",
     "q": "qq",
     "c": "cc",
@@ -57,8 +51,6 @@ map_channels = {
     "W": "WW",
     "Z": "ZZ",
     "H": "hh",
-    "aZ": "gammaz",
-    "HZ": "hZ",
     "nue": "nu_e",
     "numu": "nu_mu",
     "nutau": "nu_tau",
